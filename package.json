@@ -1,0 +1,27 @@
+{
+  "name": "HEROKU_PRACTICE",
+  "version": "1.0.0",
+  "description": "HEROKU_PRACTICE",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "knex":  "knex"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonaTem/Heroku_Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MonaTem/Heroku_Practice/issues"
+  },
+  "homepage": "https://github.com/MonaTem/Heroku_Practice#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "knex": "^0.14.2",
+    "pg": "^7.4.1"
+  }
+}
