@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/MonaTem/Heroku_Practice/issues"
   },
-  "homepage": "https://github.com/MonaTem/Heroku_Practice#readme"
+  "homepage": "https://github.com/MonaTem/Heroku_Practice#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "knex": "^0.14.2",
+    "pg": "^7.4.1"
+  }
 }
