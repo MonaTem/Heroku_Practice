@@ -4,9 +4,8 @@
   "description": "HEROKU_PRACTICE",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "knex": "knex"
+    "knex":  "knex"
   },
   "repository": {
     "type": "git",
@@ -23,8 +22,5 @@
     "express": "^4.16.2",
     "knex": "^0.14.2",
     "pg": "^7.4.1"
-  },
-  "devDependencies": {
-    "dotenv": "^4.0.0"
   }
 }
